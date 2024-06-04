@@ -4,8 +4,8 @@
 #!Twitter: @sulemanmalik_3
 #!Linkedin: http://linkedin.com/in/sulemanmalik03/
 
-VTOTAL_API_KEY="" # VIRUSTOTAL API KEY HERE
-SHODAN_API_KEY="" # SHODAN API KEY HERE
+VTOTAL_API_KEY="902326d613b4c6097fd05a1d9a9dd6da55090ffd5ab5d1c6fe0799f35b76408c" # VIRUSTOTAL API KEY HERE
+SHODAN_API_KEY="aPKsx0fpIVZUbREhr4xSB2mJX5IoPyJh" # SHODAN API KEY HERE
 
 ###################################################################################################################
 ###################################################################################################################
